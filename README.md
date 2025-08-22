@@ -1,4 +1,12 @@
 1] Fraction:
+
+
+
+
+
+
+
+
 public class Fraction {
     private int num, denom;
 
